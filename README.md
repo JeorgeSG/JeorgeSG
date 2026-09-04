@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=2F81F7&center=true&vCenter=true&width=520&lines=Ol%C3%A1%2C+eu+sou+o+Jeorge+%F0%9F%91%8B;EEstudante+de+Engenharia+de+Software;Aprendendo+algo+novo+todo+dia" alt="Jeorge Gomes" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=2F81F7&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Jeorge+%F0%9F%91%8B;Estudante+de+Engenharia+de+Software;Aprendendo+algo+novo+todo+dia" alt="Jeorge Gomes" />
 
 <p>
   <a href="https://github.com/JeorgeSG?tab=followers"><img src="https://img.shields.io/github/followers/JeorgeSG?style=flat-square&color=2F81F7&labelColor=161B22&logo=github&logoColor=white" alt="Seguidores" /></a>
