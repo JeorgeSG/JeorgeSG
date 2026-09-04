@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=170&section=header&text=Jeorge%20Gomes&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Estudante%20de%20Engenharia%20de%20Software&descAlignY=54&descSize=17" alt="Jeorge Gomes — Estudante de Engenharia de Software" />
 
 <p>
-  <a href="https://www.linkedin.com/in/SEU-USUARIO-LINKEDIN/">
+  <a href="https://www.linkedin.com/in/jeorge-santos-213076298">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:santosjeorge0@gmail.com">
@@ -14,7 +14,6 @@
   </a>
 </p>
 
-<!-- Troque SEU-USUARIO-LINKEDIN pelo seu perfil real antes de publicar. -->
 
 </div>
 
@@ -24,16 +23,14 @@
 
 Em formação, com foco em **fundamentos de desenvolvimento de software**: lógica de programação, estruturas de dados, versionamento e o ciclo completo de construção de uma aplicação.
 
-Priorizo entender bem a base antes de me especializar em uma stack específica — os projetos deste perfil são a prática deliberada desse processo, com código real, refatoração e aprendizado no meio do caminho.
+Priorizo entender bem a base antes de me especializar em uma stack específica. Os projetos deste perfil são a prática desse processo, com código real, refatoração e aprendizado no meio do caminho.
 
 <img align="right" width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeorgeSG&layout=compact&hide_border=true&bg_color=00000000&title_color=2F81F7&text_color=768390&langs_count=6" alt="Linguagens mais utilizadas" />
 
 - 🎓 Cursando **Engenharia de Software**
 - 🔭 Construindo projetos pequenos e melhorando-os aos poucos
 - 🧭 Explorando as áreas do desenvolvimento até definir minha especialização
-- 💬 Aberto a feedback e code review — é assim que se aprende mais rápido
-- 📌 Em busca de **estágio ou primeira oportunidade** na área
-
+- 💬 Aberto a feedback e code review. É assim que se aprende mais rápido
 <br clear="right" />
 
 ---
@@ -63,41 +60,20 @@ Priorizo entender bem a base antes de me especializar em uma stack específica �
 **Contato inicial**
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
 </p>
 
-<!--
-Revise os três grupos e mantenha apenas o que corresponde à realidade.
-A divisão por nível é intencional: declarar "contato inicial" com honestidade
-transmite mais maturidade do que listar tudo como domínio.
--->
 
 ---
 
 ## 📂 Projetos
 
-**[nome-do-projeto](https://github.com/JeorgeSG/nome-do-projeto)** &nbsp;`JavaScript`
-<br />Descreva o problema que a aplicação resolve e a decisão técnica mais relevante que você tomou.
-
-**[nome-do-projeto](https://github.com/JeorgeSG/nome-do-projeto)** &nbsp;`React`
-<br />Trabalhos acadêmicos valem, desde que o repositório tenha README e histórico de commits organizado.
-
-**[nome-do-projeto](https://github.com/JeorgeSG/nome-do-projeto)** &nbsp;`Python`
-<br />Um projeto pequeno e bem documentado comunica mais competência do que três abandonados pela metade.
-
-<!--
-Substitua pelos repositórios reais. Se tiver apenas um projeto sólido,
-deixe apenas um — lista curta é melhor que lista com placeholders.
--->
 
 ---
 
 ## 🎓 Formação
 
-**Engenharia de Software** — Nome da instituição · Previsão de conclusão: ANO
-
-<!-- Preencha instituição e ano. Se preferir omitir, apague a seção inteira. -->
+**Engenharia de Software** — Universidade São Judas Tadeu - USJT · Previsão de conclusão: 2028
 
 ---
 
@@ -106,7 +82,7 @@ deixe apenas um — lista curta é melhor que lista com placeholders.
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=JeorgeSG&show_icons=true&hide_border=true&hide=issues&bg_color=00000000&title_color=2F81F7&text_color=768390&icon_color=2F81F7&include_all_commits=true&rank_icon=github" alt="Estatísticas do GitHub de Jeorge Gomes" />
-<img height="160" src="https://streak-stats.demolab.com?user=JeorgeSG&hide_border=true&background=00000000&stroke=30363D&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7&sideNums=768390&sideLabels=768390&dates=768390&currStreakNum=768390" alt="Sequência de contribuições" />
+<img height="160" src="https://streak-stats.demolab.com?user=JeorgeSG&theme=dark&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats" />
 
 </div>
 
