@@ -2,11 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:2F81F7&height=170&section=header&text=Jeorge%20Gomes&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Estudante%20de%20Engenharia%20de%20Software&descAlignY=54&descSize=17" alt="Jeorge Gomes — Estudante de Engenharia de Software" />
 
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Always%20learning%20new%20things&center=true&width=440&height=45&fontColor=ffffff&vCenter=true&pause=1000&size=22" /></a>
-</p>
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Always%20learning%20new%20things&font=Inter&weight=500&size=22&color=768390&center=true&vCenter=true&width=440&height=45&pause=1000" alt="Always learning new things" />
+</a>
 
 <p>
   <a href="https://www.linkedin.com/in/jeorge-santos-213076298">
@@ -19,6 +17,10 @@
     <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Always%20learning%20new%20things&font=Inter&weight=500&size=22&color=768390&center=true&vCenter=true&width=440&height=45&pause=1000" alt="Always learning new things" />
+</a>
 
 </div>
 
